@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//I2A2//InsurMinds Webinar//PT-BR
+BEGIN:VEVENT
+UID:insurminds-webinar-20260310@i2a2
+DTSTAMP:20260309T132624Z
+DTSTART:20260310T220000Z
+DTEND:20260310T230000Z
+SUMMARY:Webminar InsurMinds - Agentes Inteligentes
+DESCRIPTION:Webminar de aquecimento do curso InsurMinds. Acesse: https://youtube.com/live/6RAlXEp7Hwg
+LOCATION:YouTube
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Webminar InsurMinds começa em 30 minutos
+END:VALARM
+END:VEVENT
+END:VCALENDAR
